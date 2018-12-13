@@ -8,7 +8,7 @@ The notebook first explains what a boxplot is then explains the history and use 
 
 
 
-<img src="boxplot.png">
+![boxplot](https://raw.githubusercontent.com/NurseQ/The-Boxplot-Function/master/img/boxplot.png)
 
     Image of a box plot. https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
 
