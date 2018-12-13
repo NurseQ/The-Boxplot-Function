@@ -10,7 +10,7 @@ The notebook first explains what a boxplot is, then explains the history and use
 
 ![boxplot](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelsonmorley-boxplot.svg/480px-Michelsonmorley-boxplot.svg.png)
 
-    Image of a box plot. https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
+    Image of a box plot. https://en.wikipedia.org/wiki/Box_plot
 
 
 
